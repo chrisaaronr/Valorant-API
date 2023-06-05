@@ -1,7 +1,10 @@
 //dependencies
 const express = require('express');
 const app = express();
+const cors = require('cors');
 const PORT = 3000; //any available port number
+
+app.use(cors());
 
 
 // API object
