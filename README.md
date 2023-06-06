@@ -1,4 +1,4 @@
-# Working with Express and Own API  
+# Working with Express and a Custom API  
 
 This project involves developing a web application using Express framework and building a custom API to handle data processing and communication.
 
